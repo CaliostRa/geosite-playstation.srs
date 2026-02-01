@@ -1,4 +1,4 @@
-````md
+
 # geosite-playstation.srs (RU / EN)
 
 ## RU
