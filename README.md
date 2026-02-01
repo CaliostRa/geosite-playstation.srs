@@ -79,6 +79,3 @@ mkdir -p rules
 * This repository contains a **generated artifact** for convenience.
 * Domain lists and licensing are governed by upstream projects; refer to the upstream repositories and their geodata sources.
 
-```
-::contentReference[oaicite:0]{index=0}
-```
