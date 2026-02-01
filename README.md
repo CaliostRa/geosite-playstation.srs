@@ -73,6 +73,17 @@ mkdir -p rules
 ./geodat2srs/geodat2srs geosite -i geosite.dat -o rules --prefix "geosite-"
 # output: rules/geosite-playstation.srs
 ```
+Upstream / ссылки на использованные репозитории
+
+Runetfreedom geodata: https://github.com/runetfreedom/russia-v2ray-rules-dat
+
+Runetfreedom converter: https://github.com/runetfreedom/geodat2srs
+
+Domain lists (обычно лежит в основе geosite): https://github.com/v2fly/domain-list-community
+
+sing-box (формат rule-set / .srs): https://github.com/SagerNet/sing-box
+
+Podkop docs (Remote Domains Lists): https://podkop.net/docs/sections
 
 ### Notes
 
